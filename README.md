@@ -1,6 +1,6 @@
 # paulhermany.github.io
 
-Ideas
-Collections
-RpgGenerator
-LinqPuzzles
+## Ideas
+- Collections
+- RpgGenerator
+- LinqPuzzles
